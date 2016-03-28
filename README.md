@@ -1,5 +1,5 @@
 # brmngr
-A /sys/class/brightness/ cli frontend
+A /sys/class/backlight/ cli frontend
 
 A pretty horrible attempt at a python script as well. If you're good at this stuff, please tell me what I'm doing horribly wrong.
 
