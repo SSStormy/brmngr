@@ -13,7 +13,7 @@ brmng v0.0.1 help message:
 -m             Returns the maximum brightness of the backlight.
 -g             Returns the current brightness of the backlight.
 -h             Prints this message.
-
+```
 ## License
 
 MIT
