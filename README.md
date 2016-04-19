@@ -1,3 +1,6 @@
+# Migrated to GitLab
+###### https://gitlab.com/SSStormy/brmngr
+```
 # brmngr
 A /sys/class/backlight/ cli frontend
 
@@ -17,3 +20,4 @@ brmng v0.0.1 help message:
 ## License
 
 MIT
+```
